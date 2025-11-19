@@ -1,3 +1,9 @@
+# Brayan Armando Soria Ortiz 
+# Programacion 3°B
+# Inicio sesion
+# Turno matutino
+
+
 import tkinter as tk
 from tkinter import messagebox
 
